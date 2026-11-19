@@ -189,9 +189,9 @@ start/stop cycles. **It clears the scene: save your work first.**
 ## Authors
 
 **Developers**
-- Domenico Riggio
-- Steve Pieper
-- Edoardo De Rose
+- Domenico Riggio ([@DomenicoRiggio](https://github.com/DomenicoRiggio))
+- Steve Pieper ([@pieper](https://github.com/pieper))
+- Edoardo De Rose ([@edoardoedr](https://github.com/edoardoedr))
 
 **Credits**
 
