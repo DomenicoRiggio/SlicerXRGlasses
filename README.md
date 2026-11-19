@@ -1,5 +1,7 @@
 # SlicerXRGlasses
 
+<img src="XRGlasses/Resources/Icons/XRGlasses.png" alt="SlicerXRGlasses logo" width="128">
+
 A 3D Slicer extension that shows the 3D view in stereo in XR glasses, with
 optional 6DoF head tracking and live views of the glasses' cameras. Nothing is
 compiled: the extension is pure Python and loads the VITURE XR Glasses SDK
